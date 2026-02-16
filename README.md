@@ -1,0 +1,1 @@
+Neste projeto, numa equipa de 3 membros, construímos uma Base de Dados em SQL criada em Oracle APEX para gerir uma aplicação de Reprodução de Músicas. O mais gratificante e desafiante deste trabalho foi o desenho da arquitetura da base de dados
